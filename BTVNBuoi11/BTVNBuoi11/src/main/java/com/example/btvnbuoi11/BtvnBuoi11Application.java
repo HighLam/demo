@@ -7,6 +7,14 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BtvnBuoi11Application {
 
 	public static void main(String[] args) {
+		        System.out.println("hehehe");
+        System.out.println("hehehe");
+        System.out.println("hehehe");
+        System.out.println("hehehe");
+        System.out.println("hehehe");
+        System.out.println("hehehe");
+        System.out.println("hehehe");
+
 		SpringApplication.run(BtvnBuoi11Application.class, args);
 	}
 
