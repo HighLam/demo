@@ -7,6 +7,17 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BtvnBuoi11Application {
 
 	public static void main(String[] args) {
+		System.out.println("lucluat");
+		System.out.println("lucluat");
+		System.out.println("lucluat");
+		System.out.println("lucluat");
+		System.out.println("lucluat");
+		System.out.println("lucluat");
+		System.out.println("lucluat");
+		System.out.println("lucluat");
+		System.out.println("lucluat");
+		System.out.println("lucluat");
+		System.out.println("lucluat");
 		SpringApplication.run(BtvnBuoi11Application.class, args);
 	}
 
