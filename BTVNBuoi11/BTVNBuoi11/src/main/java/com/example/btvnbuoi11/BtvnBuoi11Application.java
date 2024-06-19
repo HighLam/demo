@@ -18,6 +18,13 @@ public class BtvnBuoi11Application {
 		System.out.println("lucluat");
 		System.out.println("lucluat");
 		System.out.println("lucluat");
+		        System.out.println("hehehe");
+        System.out.println("hehehe");
+        System.out.println("hehehe");
+        System.out.println("hehehe");
+        System.out.println("hehehe");
+        System.out.println("hehehe");
+        System.out.println("hehehe");
 		SpringApplication.run(BtvnBuoi11Application.class, args);
 	}
 
